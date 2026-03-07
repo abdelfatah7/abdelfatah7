@@ -2,11 +2,11 @@
   <img src="https://i.imgur.com/4rY6o6g.png" width="100%" alt="Banner"/>
   
   <h1>Hi there, I'm Abdelfattah Ahmed 👋</h1>
-  <h3>Aerospace & Aeronautical Engineer | UAV & Robotics </h3>
+  <h3>Entry-Level Aeronautical Engineer | CFD & FEA | UAV Autonomy</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Autonomous+UAV+Developer;CFD+Drone+Simulation;Robotics+%26+Flight+Control;Multisensor+Fusion+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Autonomous+UAV+Developer;CFD+&++FEA+Specialist;Robotics+&++Flight+Control;Multisensor+Fusion+Researcher" alt="Typing SVG" />
   
-  <br><br>
+  <br>
 
   <a href="https://www.linkedin.com/in/abdelfattah-ahmed7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,34 +21,26 @@
 <table align="center">
   <tr>
     <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
+      <h2>🚀 Professional Summary</h2>
+      <p>
+        I’m an <b>Entry-Level Aeronautical & Aerospace Engineer</b> with hands-on training at <b>EgyptAir Training Academy</b> and the <b>Egyptian Space Agency (EGSA)</b>[cite: 9, 17, 26]. 
+      </p>
+      <p>
+        I have completed over <b>+50 projects</b>, specializing in <b>CFD and FEA analyses</b>[cite: 49]. I also focus on <b>UAV simulation and optimization</b> using PX4 Autopilot and MATLAB/Simulink, turning technical expertise into practical, real-world aerospace solutions[cite: 10, 132, 136].
+      </p>
       <ul>
-        <li>🎓 <b>Aerospace & Aeronautical Engineer</b> with a strong foundation in flight dynamics.</li>
-        <li>🤖 Deeply passionate about <b>Autonomous UAVs, Robotics, and Computer Vision</b>.</li>
-        <li>🛩 Experienced in conducting <b>CFD Simulations</b> to optimize Drone & UAV Aerodynamics.</li>
-        <li>🧠 Skilled in <b>Flight Control, Sensor Fusion (LiDAR/Cameras), and Autonomous Navigation</b>.</li>
-        <li>🔬 Constantly exploring the intersection of <b>AI and Robotics Applications</b> for real-world solutions.</li>
+        <li>🎓 Senior Aero Engineering Student[cite: 2, 13].</li>
+        <li>🤖 Expert in <b>ROS-based</b> Autonomous Robots[cite: 10, 73].</li>
+        <li>🔬 Specialized in <b>Multisensor Fusion</b> (LiDAR/IMU)[cite: 85, 137].</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://miro.medium.com/max/1200/1*p1zK9kX-7NnQ52y2K2nQ9g.gif" width="100%" alt="3D Point Cloud Mapping GIF" style="border-radius: 10px;"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbm52ZHBidm93NHR3bm9idXN6bm9idXN6bm9idXN6bm9idXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxP5K3VpPpe/giphy.gif" width="100%" style="border-radius: 10px;"/>
       <br>
-      <i><small>Real-time 3D Mapping & Navigation</small></i>
+      <i><small>3D Mapping & Autonomous Navigation</small></i>
     </td>
   </tr>
 </table>
-
----
-
-## 🧠 Current Flagship Project
-
-### 🛸 Autonomous UAV Platform: Threat Detection & 3D Mapping
-Developing a fully autonomous UAV system focusing on robust navigation and situational awareness through multisensor fusion.
-
-- **Capabilities:** Fully autonomous navigation, Real-time 3D mapping, and onboard threat detection.
-- **Algorithms:** Sensor fusion combining multiple sources (LiDAR, Vision, IMU) for accurate SLAM.
-- **Control:** Intelligent flight control systems and dynamic mission planning.
-- **Tech Stack:** `ArduPilot` • `PX4` • `ROS` • `Gazebo` • `Computer Vision`
 
 ---
 
@@ -56,65 +48,50 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming & Robotics
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/PX4-021F36?style=for-the-badge&logo=px4&logoColor=white" />
 
-### 🤖 UAV & Robotics
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=ardupilot&logoColor=white" />
-<img src="https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white" />
-
-### ✈️ Aeronautical & CFD
+### ✈️ Aerospace & Simulation
 <img src="https://img.shields.io/badge/ANSYS_CFD-F68C1E?style=for-the-badge&logo=ansys&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white" />
-
-### ⚙️ Systems & Tools
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚁 Featured Work
+## 🚁 Featured Work & Research
 
-| Project | Description |
+| Project | Highlights |
 | :--- | :--- |
-| **📦 Autonomous Delivery Drone** | Emergency supply delivery UAV with intelligent navigation, obstacle avoidance, and mission planning. |
-| **🏎️ ROS Autonomous Robot** | Ground robot capable of autonomous navigation using advanced ROS perception, SLAM, and control algorithms. |
-| **🌪️ UAV CFD Simulation** | Detailed aerodynamic CFD simulations of various UAV configurations for optimal structural design and flight performance. |
+| **🌪️ CFD Boeing X-45** | [cite_start]Aerodynamic analysis at 170 m/s using polyhedral meshing in ANSYS Fluent[cite: 31, 32, 33]. |
+| **🤖 Autonomous Nav** | [cite_start]ROS-based robot with SLAM (AMCL), Dijkstra planning, and dynamic mapping[cite: 73, 74, 75]. |
+| **🛸 UAV Offboard** | [cite_start]Autonomous infinity-loop maneuvers using MAVROS and PX4 C++ nodes[cite: 83, 84]. |
+| **🛰️ Smart Satellite** | [cite_start]3rd place in Benha Hackathon for Cosmic Ray Energy Harvesting project[cite: 98, 100]. |
 
 ---
 
 ## 📊 GitHub Media & Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelfatah7/abdelfatah7/output/github-contribution-snake.svg" alt="Contribution Snake" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 </p>
 
 ---
 
 <div align="center">
   
-**Always open to collaborating on innovative UAV and Robotics projects!**
+**Every day brings new challenges and innovations. Let's build the future of flight!**
 
-<img src="https://komarev.com/ghpvc/?username=abdelfatah7&color=F97316&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=abdelfatah7&color=F97316&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
