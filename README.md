@@ -5,9 +5,7 @@
 
  </h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=passionate about Autonomous UAVs, Robotics; Experienced in CFD Simulations& UAV Aerodynamics;Aerodynamics+%26+;" alt="Typing SVG" />
-  
-  <br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Passionate%20about%20Autonomous%20UAVs%2C%20Robotics;Experienced%20in%20CFD%20Simulations%20%26%20UAV%20Aerodynamics;Aerodynamics%20%26%20Flight%20Control" alt="Typing SVG" /> 
 
   <a href="https://www.linkedin.com/in/abdelfattah-ahmed7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -84,34 +82,27 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 
 | Project | Description | Media / Links |
 | :--- | :--- | :--- |
-| **🦇 B2 Spirit Stealth CFD** | High-fidelity aerodynamic analysis of the B2 Spirit flying wing. Conducted **Streamline visualization** and pressure contour analysis to evaluate performance using **ANSYS Fluent**. | [📊 View Streamlines](https://www.linkedin.com/in/abdelfattah-ahmed7/) |
+| **🦇 B2 Spirit Stealth CFD** | High-fidelity aerodynamic analysis of the B2 Spirit flying wing. Conducted **Streamline visualization** and pressure contour analysis to evaluate performance using **ANSYS Fluent**. | [📊 View Streamlines](https://www.linkedin.com/posts/abdelfattah-ahmed7_cfd-cfd-aerodynamics-ugcPost-7434092373267292160-TXy7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNVdBgBLRXykO2ahcmCnoWAi96H6J2EXbs) |
 | **📦 Autonomous Delivery Drone** | [cite_start]Integrated **PX4** with QGroundControl for mission planning [cite: 86-90]. Focused on emergency supply delivery with intelligent navigation. | [📂 Repository](https://github.com/abdelfatah7) |
 | **🏎️ ROS Autonomous Robot** | [cite_start]Developed a ROS-based robot using **SLAM Toolbox**, **AMCL** for localization, and **DWA** for local path control [cite: 74-76]. | [📺 Project Demo](https://www.linkedin.com/in/abdelfattah-ahmed7/) |
 | **🛸 UAV Offboard Control** | [cite_start]Executed fully autonomous flight maneuvers via **MAVROS** and **PX4**[cite: 83]. [cite_start]Achieved complex patterns through C++ control nodes[cite: 84]. | [🔗 Case Study](https://github.com/abdelfatah7) |
 
 ---
 
-## 📊 GitHub Media & Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/images/github-contribution-snake.svg" alt="Contribution Snake" width="80%"/>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
+### 📈 GitHub Ecosystem
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
+---
+
+### 🌐 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge&logo=language" />
+  <img src="https://img.shields.io/badge/English-Professional_Proficiency-blue?style=for-the-badge&logo=google-translate" />
+</p>
 
 <div align="center">
   
