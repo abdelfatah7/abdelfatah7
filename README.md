@@ -2,7 +2,7 @@
 <h3 align="center">Aeronautical Engineer | UAV Autonomy | Robotics</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Autonomous+UAV+Developer;Robotics+%26+Flight+Control" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Robotics+%26+Flight+Control" alt="Typing SVG" /> 
 </div>
 
 <div align="center">
