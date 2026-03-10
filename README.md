@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Abdelfattah Ahmed 👋</h1>
-  <h3>Aeronautical Engineer | UAV Autonomy | Robotics</h3>
+  <h3>Aeronautical Engineer | UAVs Autonomy | Robotics</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Robotics+%26+Flight+Control" alt="Typing SVG" /> 
   <br><br>
   <a href="https://www.linkedin.com/in/abdelfattah-ahmed7/">
@@ -13,7 +13,7 @@
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
       <h2>🚀 About Me</h2>
@@ -24,12 +24,17 @@
         <li>🧠 Skilled in <b>Flight Control, Sensor Fusion (LiDAR/IMU), and Autonomous Navigation</b>.</li>
       </ul>
       <br>
-## 🔬 Research Interests 
-        <li>🛸 <b>Autonomous UAV Navigation</b> & <b>SLAM for Aerial Robotics</b></li>
-        <li>🕹️ <b>Flight Control Systems</b> & <b>Aerodynamic Optimization</b></li>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="100%" alt="Gazebo Simulation GIF" style="border-radius: 12px;"/>
+      <h3>🔬 Research Interests</h3>
+      <p>
+        🛸 <b>Autonomous UAV Navigation</b> | 🗺️ <b>SLAM for Aerial Robotics</b> <br>
+        🕹️ <b>Flight Control Systems</b> | 🌪️ <b>Aerodynamic Optimization</b>
+      </p>
     </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHByb2JoZjR4NWJ2dHU0bGcxMnFxcWUxcHRubTN1OGRuMnAxamVkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOF0rb0fdtGBOvgdO3/giphy.gif" width="100%" alt="Drone Mapping GIF" style="border-radius: 12px;"/>
+      <br>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -59,17 +64,6 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 * **Capabilities:** Fully autonomous navigation, Real-time 3D mapping, and onboard threat detection.
 * **Algorithms:** Sensor fusion combining multiple sources (LiDAR, Camera, IMU) for accurate SLAM.
 
-<br>
-
-<table align="center" style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-    </td>
-  </tr>
-</table>
-
-<br>
-
 #### ⚙️ System Architecture (ROS-PX4 Integration)
 
 ```mermaid
@@ -86,7 +80,7 @@ graph LR
 ```
 
 **Tech Stack:** <br>
-<img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
+<img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" />   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />   <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
 
 <br><br>
 
