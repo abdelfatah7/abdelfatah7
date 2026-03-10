@@ -1,19 +1,19 @@
 <div align="center">
   <h1>Hi there, I'm Abdelfattah Ahmed 👋</h1>
   <h3>Aeronautical Engineer | UAV Autonomy | Robotics</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Autonomous+UAV+Developer;Robotics+%26+Flight+Control" alt="Typing SVG" /> 
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Autonomous+UAV+Developer;Robotics+%26+Flight+Control](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Aerospace+%26+Aeronautical+Engineer;CFD+%26+FEA+Specialist;Autonomous+UAV+Developer;Robotics+%26+Flight+Control)" alt="Typing SVG" /> 
   <br><br>
-  <a href="https://www.linkedin.com/in/abdelfattah-ahmed7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="[https://www.linkedin.com/in/abdelfattah-ahmed7/](https://www.linkedin.com/in/abdelfattah-ahmed7/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
   <a href="mailto:aapdo669@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
   </a>
 </div>
 
 <br>
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border: none;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
       <h2>🚀 About Me</h2>
@@ -25,15 +25,15 @@
       </ul>
       <br>
       <h3>🔬 Research Interests</h3>
-      <p>
-        🛸 <b>Autonomous UAV Navigation</b> | 🗺️ <b>SLAM for Aerial Robotics</b> <br>
-        🕹️ <b>Flight Control Systems</b> | 🌪️ <b>Aerodynamic Optimization</b>
-      </p>
+      <ul>
+        <li>🛸 <b>Autonomous UAV Navigation</b> & <b>SLAM for Aerial Robotics</b></li>
+        <li>🕹️ <b>Flight Control Systems</b> & <b>Aerodynamic Optimization</b></li>
+      </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHByb2JoZjR4NWJ2dHU0bGcxMnFxcWUxcHRubTN1OGRuMnAxamVkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOF0rb0fdtGBOvgdO3/giphy.gif" width="100%" alt="Drone Mapping GIF" style="border-radius: 12px;"/>
+      <img src="[https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif](https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif)" width="100%" alt="Gazebo Simulation GIF" style="border-radius: 12px;"/>
       <br>
-      <i><small>Real-time 3D Mapping & Navigation</small></i>
+      <i><small>ROS/Gazebo Autonomous Navigation & SLAM</small></i>
     </td>
   </tr>
 </table>
@@ -65,6 +65,32 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 * **Capabilities:** Fully autonomous navigation, Real-time 3D mapping, and onboard threat detection.
 * **Algorithms:** Sensor fusion combining multiple sources (LiDAR, Camera, IMU) for accurate SLAM.
 
+<br>
+
+<table align="center" style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h4>📂 Repository Architecture</h4>
+<pre><code>📦 Autonomous-UAV-Platform
+┣ 📂 src
+┃ ┣ 📂 flight_control (PX4/C++)
+┃ ┣ 📂 perception (OpenCV/YOLO)
+┃ ┗ 📂 navigation (ROS/SLAM)
+┣ 📂 config (YAML parameters)
+┣ 📂 launch (ROS launch files)
+┣ 📂 worlds (Gazebo environments)
+┗ 📜 CMakeLists.txt</code></pre>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <h4>🚀 3D Flight Trajectory</h4>
+      <img src="[https://via.placeholder.com/400x200/0D1117/F97316?text=Insert+Your+3D+Plot+Here](https://via.placeholder.com/400x200/0D1117/F97316?text=Insert+Your+3D+Plot+Here)" width="90%" alt="3D Trajectory Plot Placeholder" style="border-radius: 8px; border: 1px solid #444;"/>
+      <br><i><small>Simulated Waypoint Navigation Trajectory</small></i>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 #### ⚙️ System Architecture (ROS-PX4 Integration)
 
 ```mermaid
@@ -81,7 +107,7 @@ graph LR
 ```
 
 **Tech Stack:** <br>
-<img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
+<img src="[https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white](https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white)" /> <img src="[https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)" /> <img src="[https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white](https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white)" />
 
 <br><br>
 
@@ -117,16 +143,16 @@ graph LR
 <div align="center">
 
 ### 💻 Programming & Robotics
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white" />
+<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+<img src="[https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white](https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white)" />
+<img src="[https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white](https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white)" />
 
 ### ✈️ Aerospace & CFD
-<img src="https://img.shields.io/badge/ANSYS_Fluent-F68C1E?style=for-the-badge&logo=ansys&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white" />
+<img src="[https://img.shields.io/badge/ANSYS_Fluent-F68C1E?style=for-the-badge&logo=ansys&logoColor=white](https://img.shields.io/badge/ANSYS_Fluent-F68C1E?style=for-the-badge&logo=ansys&logoColor=white)" />
+<img src="[https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)" />
+<img src="[https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white](https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white)" />
 
 </div>
 
@@ -135,10 +161,10 @@ graph LR
 ### 📈 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=abdelfatah7&show_icons=true&theme=tokyonight&hide_border=true)" width="48%" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah7&theme=tokyonight&hide_border=true)" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfatah7&layout=compact&theme=tokyonight&hide_border=true)" width="60%" />
 </div>
 
 <br>
@@ -147,12 +173,12 @@ graph LR
   <tr style="border: none;">
     <td align="left" style="border: none;">
       <h3>🌐 Languages</h3>
-      <img src="https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge&logo=language" />
-      <img src="https://img.shields.io/badge/English-Professional_Proficiency-blue?style=for-the-badge&logo=google-translate" />
+      <img src="[https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge&logo=language](https://img.shields.io/badge/Arabic-Native-orange?style=for-the-badge&logo=language)" />
+      <img src="[https://img.shields.io/badge/English-Professional_Proficiency-blue?style=for-the-badge&logo=google-translate](https://img.shields.io/badge/English-Professional_Proficiency-blue?style=for-the-badge&logo=google-translate)" />
     </td>
     <td align="right" style="border: none;">
       <br><br>
-      <img src="https://komarev.com/ghpvc/?username=abdelfatah7&color=F97316&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="[https://komarev.com/ghpvc/?username=abdelfatah7&color=F97316&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=abdelfatah7&color=F97316&style=for-the-badge&label=PROFILE+VIEWS)" alt="Profile Views" />
     </td>
   </tr>
 </table>
