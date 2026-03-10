@@ -22,11 +22,11 @@
     <td width="60%" valign="top" style="border: none;">
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🎓 <b>Entry-Level Aeronautical & Aerospace Engineer</b> with hands-on training at <b>EgyptAir Training Academy</b> and the <b>Egyptian Space Agency (EGSA)</b>.</li>
+        <li>🎓 <b>Senior Aeronautical & Aerospace Engineering Student</b> at New Mansoura University.</li>
         <li>🤖 Deeply passionate about <b>Autonomous UAVs, Robotics, and Computer Vision</b>.</li>
         <li>🛩️ Completed over <b>+50 projects</b>, specializing in <b>CFD and FEA analyses</b> to optimize aerodynamic performance.</li>
         <li>🧠 Skilled in <b>Flight Control, Sensor Fusion (LiDAR/IMU), and Autonomous Navigation</b>.</li>
-        <li>⚡ Highly proficient in turning complex technical theories into practical aerospace solutions.</li>
+        <li>⚡ Highly proficient in turning complex technical theories into practical aerospace solutions using C and C++.</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -39,6 +39,24 @@
 
 ---
 
+## 💼 Experience & Training
+
+- **Egyptian Space Agency (EgSA)** | *Space Keys Trainee* 🛰️
+  - Hands-on training on critical satellite subsystems (EPS, OBC, Communications, ADCS, Payload, and Structures).
+- **EgyptAir Training Academy** | *Airframe & Power Plant Trainee* ✈️
+  - Gained practical experience with aircraft systems, maintenance processes, safety protocols, and aeronautical diagnostics.
+
+---
+
+## 🏆 Honors & Certifications
+
+- 🥉 **3rd Place, Smart Cities Hackathon:** Developed a *Cosmic Ray Energy Harvesting Satellite Project* for renewable energy transmission.
+- 🎓 **Autonomous Mobile Robot ROS Diploma (Parts I & II):** Mastered ROS, Gazebo, SLAM, Kinematics, and EKF sensor fusion.
+- 🚁 **Pixhawk Quadcopter Mastery:** Proficient in assembly, Mission Planner configuration, and autonomous mission planning.
+- ⚙️ **ANSYS Simulation & FEA Training:** Advanced structural analysis, meshing, and finite element modeling.
+
+---
+
 ## 🧠 Current Flagship Project
 
 ### 🛸 Autonomous UAV Platform: Threat Detection, 3D Mapping & Navigation
@@ -47,38 +65,7 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 - **Capabilities:** Fully autonomous navigation, Real-time 3D mapping, and onboard threat detection.
 - **Algorithms:** Sensor fusion combining multiple sources (LiDAR, Camera, IMU) for accurate SLAM.
 - **Control:** Intelligent flight control systems and dynamic mission planning.
-- **Tech Stack:** <img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-
----
-
-## 🛠 Technical Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-
-### 🤖 UAV & Robotics
-<img src="https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=ardupilot&logoColor=white" />
-<img src="https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white" />
-
-### ✈️ Aeronautical & CFD
-<img src="https://img.shields.io/badge/ANSYS_Fluent-F68C1E?style=for-the-badge&logo=ansys&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white" />
-
-### ⚙️ Systems & Tools
-<img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
+- **Tech Stack:** <img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
 
 ---
 
@@ -86,10 +73,46 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 
 | Project | Description | Media / Links |
 | :--- | :--- | :--- |
-| **🦇 B2 Spirit Stealth CFD** | High-fidelity aerodynamic analysis of the B2 Spirit flying wing. Conducted **Streamline visualization** and pressure contour analysis to evaluate performance using **ANSYS Fluent**. | [📊 View Streamlines](https://www.linkedin.com/posts/abdelfattah-ahmed7_cfd-cfd-aerodynamics-ugcPost-7434092373267292160-TXy7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNVdBgBLRXykO2ahcmCnoWAi96H6J2EXbs) |
-| **📦 Autonomous Delivery Drone** | Integrated **PX4** with QGroundControl for mission planning. Focused on emergency supply delivery with intelligent autonomous navigation and obstacle avoidance. | [📂 Repository](https://github.com/abdelfatah7) |
-| **🏎️ ROS Autonomous Robot** | Developed a ROS-based robot using **SLAM Toolbox**, **AMCL** for precise localization, and **DWA** for dynamic local path control and environment navigation. | [📺 Project Demo](https://www.linkedin.com/in/abdelfattah-ahmed7/) |
-| **🛸 UAV Offboard Control** | Executed fully autonomous flight maneuvers via **MAVROS** and **PX4**. Achieved complex trajectory patterns (infinity symbol) through custom **C++** control nodes. | [🔗 Case Study](https://github.com/abdelfatah7) |
+| **🦇 B2 Spirit Stealth CFD** | High-fidelity aerodynamic analysis of the B2 Spirit flying wing. Conducted **Streamline visualization** and pressure contour analysis using **ANSYS Fluent**. | [📊 View Streamlines](https://www.linkedin.com/posts/abdelfattah-ahmed7_cfd-cfd-aerodynamics-ugcPost-7434092373267292160-TXy7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNVdBgBLRXykO2ahcmCnoWAi96H6J2EXbs) |
+| **📦 Autonomous Delivery Drone** | Integrated **PX4** with QGroundControl. Focused on emergency supply delivery with intelligent autonomous navigation and obstacle avoidance. | [📂 Repository](https://github.com/abdelfatah7) |
+| **🏎️ ROS Autonomous Robot** | Developed a ROS-based robot using **SLAM Toolbox**, **AMCL** for localization, and **DWA** for dynamic local path control. | [📺 Project Demo](https://www.linkedin.com/in/abdelfattah-ahmed7/) |
+| **🛸 UAV Offboard Control** | Executed fully autonomous flight maneuvers via **MAVROS** and **PX4**. Achieved complex trajectory patterns through custom **C++** nodes. | [🔗 Case Study](https://github.com/abdelfatah7) |
+
+<br>
+
+<details>
+<summary><b>✨ Click here to view more Aerospace, Automotive & CFD Projects</b></summary>
+<br>
+
+| Project Title | Core Details & Technologies |
+| :--- | :--- |
+| **Jet Engine Fan CFD** | Simulated turbofan airflow dynamics at 100 rad/s applying RANS equations and a structured mesh. Visualized velocity patterns. |
+| **Quadcopter Dynamics** | Transient CFD simulation with mesh motion at 7000 RPM to study aerodynamic flow behavior and vortices. |
+| **Helicopter Main Rotor** | Transient CFD simulation to analyze vortex core formation, wake evolution, and blade-vortex interactions. |
+| **Race Car Aerodynamics** | Evaluated aerodynamic performance and downforce generation, analyzing drag sources using Bernoulli's principle. |
+| **NACA 0012 Optimization** | Analyzed airfoil at 10° AoA using k-w SST turbulence model to calculate Cl/Cd coefficients. |
+
+</details>
+
+---
+
+## 🛠 Technical Arsenal
+
+<div align="center">
+
+### 💻 Programming & Robotics
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/PX4_Autopilot-021F36?style=for-the-badge&logo=px4&logoColor=white" />
+
+### ✈️ Aerospace & CFD
+<img src="https://img.shields.io/badge/ANSYS_Fluent-F68C1E?style=for-the-badge&logo=ansys&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Gazebo-F86E20?style=for-the-badge&logo=gazebo&logoColor=white" />
+
+</div>
 
 ---
 
