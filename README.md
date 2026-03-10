@@ -13,7 +13,7 @@
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
       <h2>🚀 About Me</h2>
@@ -25,15 +25,15 @@
       </ul>
       <br>
       <h3>🔬 Research Interests</h3>
-      <ul>
-        <li>🛸 <b>Autonomous UAV Navigation</b> & <b>SLAM for Aerial Robotics</b></li>
-        <li>🕹️ <b>Flight Control Systems</b> & <b>Aerodynamic Optimization</b></li>
-      </ul>
+      <p>
+        🛸 <b>Autonomous UAV Navigation</b> | 🗺️ <b>SLAM for Aerial Robotics</b> <br>
+        🕹️ <b>Flight Control Systems</b> | 🌪️ <b>Aerodynamic Optimization</b>
+      </p>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="100%" alt="Gazebo Simulation GIF" style="border-radius: 12px;"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHByb2JoZjR4NWJ2dHU0bGcxMnFxcWUxcHRubTN1OGRuMnAxamVkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOF0rb0fdtGBOvgdO3/giphy.gif" width="100%" alt="Drone Mapping GIF" style="border-radius: 12px;"/>
       <br>
-      <i><small>ROS/Gazebo Autonomous Navigation & SLAM</small></i>
+      <i><small>Real-time 3D Mapping & Navigation</small></i>
     </td>
   </tr>
 </table>
@@ -65,32 +65,6 @@ Developing a fully autonomous UAV system focusing on robust navigation and situa
 * **Capabilities:** Fully autonomous navigation, Real-time 3D mapping, and onboard threat detection.
 * **Algorithms:** Sensor fusion combining multiple sources (LiDAR, Camera, IMU) for accurate SLAM.
 
-<br>
-
-<table align="center" style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h4>📂 Repository Architecture</h4>
-<pre><code>📦 Autonomous-UAV-Platform
-┣ 📂 src
-┃ ┣ 📂 flight_control (PX4/C++)
-┃ ┣ 📂 perception (OpenCV/YOLO)
-┃ ┗ 📂 navigation (ROS/SLAM)
-┣ 📂 config (YAML parameters)
-┣ 📂 launch (ROS launch files)
-┣ 📂 worlds (Gazebo environments)
-┗ 📜 CMakeLists.txt</code></pre>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <h4>🚀 3D Flight Trajectory</h4>
-      <img src="https://via.placeholder.com/400x200/0D1117/F97316?text=Insert+Your+3D+Plot+Here" width="90%" alt="3D Trajectory Plot Placeholder" style="border-radius: 8px; border: 1px solid #444;"/>
-      <br><i><small>Simulated Waypoint Navigation Trajectory</small></i>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 #### ⚙️ System Architecture (ROS-PX4 Integration)
 
 ```mermaid
@@ -108,6 +82,25 @@ graph LR
 
 **Tech Stack:** <br>
 <img src="https://img.shields.io/badge/PX4-021F36?style=flat-square&logo=px4&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-F86E20?style=flat-square&logo=gazebo&logoColor=white" />
+
+<br>
+
+#### 🎥 Simulation & Trajectory Analysis
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://dummyimage.com/600x400/021F36/ffffff.png&text=Insert+Gazebo+Drone+GIF+Here" width="100%" alt="Gazebo Drone Simulation" style="border-radius: 12px;"/>
+      <br>
+      <i><small>🚁 Gazebo SITL Drone Simulation</small></i>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://dummyimage.com/600x400/F97316/ffffff.png&text=Insert+3D+Flight+Path+Here" width="100%" alt="3D Flight Path Plot" style="border-radius: 12px;"/>
+      <br>
+      <i><small>📈 Autonomous 3D Flight Trajectory</small></i>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
