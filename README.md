@@ -144,78 +144,24 @@ Camera Feed ──► ThreatDetector Node (YOLOv8s)
 
 ---
 
+
 ## Professional Training
 
-<div align="center">
+```
+✈️  EgyptAir Training Academy  ·  Basic Indoctrination Course — Phase I
+    Aug – Sep 2025  ·  205 Hours  ·  20 ATA Chapters
+    Approved Part 147 by ECAA  ·  Cert. No. 15772  ·  Training Order No. 90/2025
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-<b>✈️</b>
-<br><br>
-<b>Basic Indoctrination Course</b><br>
-<sub>Phase I</sub>
-<br><br>
-<b>EgyptAir Training Academy</b>
-<br>
-<sub>Cairo, Egypt</sub>
-<br><br>
-<code>205 Hours</code>
-<br>
-<sub>20 ATA Chapters</sub><br>
-<sub>Approved Part 147 — ECAA</sub><br>
-<sub>Cert. No. <b>15772</b></sub><br>
-<sub>Order No. 90/2025</sub>
-<br><br>
-<sub><i>Aug – Sep 2025</i></sub>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<b>🔧</b>
-<br><br>
-<b>Airframe & Power Plant</b><br>
-<sub>Familiarization Program</sub>
-<br><br>
-<b>EgyptAir Training Academy</b>
-<br>
-<sub>Cairo, Egypt</sub>
-<br><br>
-<code>4-Week Internship</code>
-<br>
-<sub>Aircraft Systems</sub><br>
-<sub>Engine Components</sub><br>
-<sub>Maintenance Workflows</sub><br>
-<sub>Industry Safety Standards</sub>
-<br><br>
-<sub><i>Aug – Sep 2024</i></sub>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<b>🛰️</b>
-<br><br>
-<b>Space Keys Program</b><br>
-<sub>Space Innovation Bundle</sub>
-<br><br>
-<b>Egyptian Space Agency</b>
-<br>
-<sub>EGSA · Cairo, Egypt</sub>
-<br><br>
-<code>60 Hours</code>
-<br>
-<sub>EPS · OBC · Communications</sub><br>
-<sub>ADCS · Payload · Structures</sub><br>
-<sub>ID: <b>EgSA-TR-P05-37</b></sub>
-<br><br>
-<sub><i>Aug – Sep 2024</i></sub>
-</td>
-</tr>
-</table>
+🔧  EgyptAir Training Academy  ·  Airframe & Power Plant Familiarization
+    Aug – Sep 2024  ·  4-Week Internship
+    Aircraft systems · Engine components · Maintenance workflows
 
-</div>
+🛰️  Egyptian Space Agency (EGSA)  ·  Space Keys Program
+    Aug – Sep 2024  ·  60 Hours  ·  Certification ID: EgSA-TR-P05-37
+    EPS · OBC · Communications · ADCS · Payload · Structures
+```
 
 ---
-
 ## Honors & Certifications
 
 <div align="center">
