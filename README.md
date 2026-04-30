@@ -1,28 +1,27 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ ELITE HERO ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════ PREMIUM BLACK HERO ═══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0c2340,100:0ea5e9&height=260&section=header&text=Abdelfattah%20Ahmed&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Aerospace%20%26%20Autonomous%20Systems%20Engineer&descSize=18&descAlignY=62&descColor=64748b&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=Abdelfattah%20Ahmed&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Senior%20Aerospace%20%26%20Autonomous%20Systems%20Engineer&descSize=18&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
 
-<br>
 
-<!-- Dynamic Typing Branding -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Autonomous+UAV+Platforms+%E2%80%94+ROS+2+%2B+PX4+%2B+YOLOv8;3D+Mapping+%26+Intelligent+Navigation+%E2%80%94+SLAM;Senior+Aeronautical+Engineering+Student;Expert+in+High-Fidelity+Aerospace+Simulations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Autonomous+UAV+Systems+%E2%80%94+ROS+2+%2B+PX4+%2B+YOLOv8;3D+Mapping+%26+SLAM+%E2%80%94+RTAB-Map+%2B+Octomap+%2B+Nav2;50%2B+High-Fidelity+CFD+Simulations+in+ANSYS+Fluent;EgyptAir+Training+Academy+%C2%B7+Egyptian+Space+Agency)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Quick Contact & Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelfattah-ahmed7/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapdo669@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelfatah7)
-[![Notion](https://img.shields.io/badge/CFD_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://magical-droplet-15f.notion.site/Abdelfattah-Ahmed-CFD-UAV-Engineer-33099313f8a9803a87acd8a90107ea94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelfattah-ahmed7/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aapdo669@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdelfatah7)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdelfatah7&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/abdelfatah7)
 
-<br><br>
+<br>
 
-<!-- Premium CFD Call-To-Action (To separate CFD from main Robotics text) -->
-[![CFD Portfolio](https://img.shields.io/badge/◈_Explore_My_High_Fidelity_CFD_Portfolio_on_Notion_↗-0ea5e9?style=for-the-badge&logoColor=white&labelColor=000000)](https://magical-droplet-15f.notion.site/Abdelfattah-Ahmed-CFD-UAV-Engineer-33099313f8a9803a87acd8a90107ea94)
+<!-- CFD CTA Button -->
+[![CFD Portfolio](https://img.shields.io/badge/◈_Explore_My_Full_CFD_%26_Aerodynamics_Portfolio_on_Notion_↗-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000)](https://magical-droplet-15f.notion.site/Abdelfattah-Ahmed-CFD-UAV-Engineer-33099313f8a9803a87acd8a90107ea94)
 
 </div>
+
+---
 
 ## About
 
