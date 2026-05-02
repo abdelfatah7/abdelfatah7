@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Autonomous+UAV+Systems+%E2%80%94+ROS+2+%2B+PX4+%2B+YOLOv8;3D+Mapping+%26+SLAM+%E2%80%94+RTAB-Map+%2B+Octomap+%2B+Nav2;50%2B+High-Fidelity+CFD+Simulations+in+ANSYS+Fluent;EgyptAir+Training+Academy+%C2%B7+Egyptian+Space+Agency)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Autonomous+UAV+Systems+%E2%80%94+ROS+2+%2B+PX4_Autopilot+%2B+YOLOv8;3D+Mapping+%26+SLAM+%E2%80%94+%2B+Octomap+%2B+Nav2;50%2B+High-Fidelity+CFD+Simulations+in+ANSYS+Fluent;EgyptAir+Training+Academy+%C2%B7)](https://git.io/typing-svg)
 
 <br>
 
